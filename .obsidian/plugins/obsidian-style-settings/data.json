@@ -1,0 +1,14 @@
+{
+  "anuppuccin-theme-settings@@anp-bg-fix": false,
+  "anuppuccin-theme-settings@@anp-hide-borders": false,
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
+  "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
+  "anuppuccin-theme-settings@@anp-card-layout-actions": true,
+  "anuppuccin-theme-settings@@anp-card-shadows": true,
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-pink",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-edit": "anp-codeblock-edit-nowrap",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-preview": "anp-codeblock-preview-nowrap",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-hl-preview": "anp-codeblock-preview-hl-nowrap",
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": true
+}

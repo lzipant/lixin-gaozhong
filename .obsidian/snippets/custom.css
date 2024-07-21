@@ -1,0 +1,8 @@
+.markdown-preview-view code[class*="lang"] {
+  overflow-x: auto;
+  white-space: pre;
+}
+
+.HyperMD-codeblock  {
+    white-space: pre;
+}
